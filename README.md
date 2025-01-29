@@ -31,3 +31,14 @@ An AI-powered traffic management system designed to efficiently handle real-time
 
 --> Adjusts traffic signals dynamically based on real-time vehicle counts on each road.
 
+## Technologies Used
+Programming Language: Python
+
+Libraries and Tools:
+
+OpenCV
+
+YOLO (You Only Look Once) for object detection
+
+PyTesseract for Optical Character Recognition (OCR)
+
